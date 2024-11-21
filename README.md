@@ -1,5 +1,5 @@
 
-# Ekstraklasa Project
+# EkSQLasa
 
 ## Opis
 Projekt umożliwia przeglądanie tabel ligowych polskiej Ekstraklasy (od sezonu 2010/2011) oraz wykonywanie zapytań SQL na tabelach z danymi z poszczególnych sezonów.
