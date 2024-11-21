@@ -25,7 +25,7 @@ Projekt umożliwia przeglądanie tabel ligowych polskiej Ekstraklasy (od sezonu 
    - [http://localhost:5000/query](http://localhost:5000/query) — Zapytania SQL.
      
 
-# Struktura Tabel w Projekcie Ekstraklasa
+# Struktura Tabel
 
 ## Tabela `seasons`
 Tabela przechowuje informacje o sezonach rozgrywek.
