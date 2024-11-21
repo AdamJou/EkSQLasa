@@ -13,7 +13,6 @@ Projekt umożliwia przeglądanie tabel ligowych polskiej Ekstraklasy (od sezonu 
 1. Sklonuj repozytorium:
    ```bash
    git clone https://github.com/AdamJou/EkSQLasa.git
-   cd Ekstraklasa
    ```
 
 2. Uruchom Docker Compose:
